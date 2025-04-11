@@ -223,6 +223,10 @@ const indexTemplate = `<!-- HTML for static distribution bundle build -->
       margin:0;
       background: #fafafa;
     }
+
+	.swagger-ui .topbar {
+	display: none;
+	}
   </style>
 </head>
 
